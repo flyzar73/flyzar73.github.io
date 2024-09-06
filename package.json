@@ -2,6 +2,7 @@
   "dependencies": {
     "@discord/embedded-app-sdk": "^1.4.2"
   },
+  "type": "module",
   "name": "activities",
   "version": "1.0.0",
   "main": "index.js",
