@@ -44,11 +44,11 @@ async function setupDiscordSdk() {
   if (auth == null) {
     throw new Error("Authenticate command failed");
   }
-}
 
-document.querySelector("#app").innerHTML = `
+  document.querySelector("#app").innerHTML = `
   <div>
     <img src="./rocket.png" class="logo" alt="Discord" />
-    <h1>Hello, World!</h1>
+    <h1>Hello, World! ${access_token}</h1>
   </div>
 `;
+}
