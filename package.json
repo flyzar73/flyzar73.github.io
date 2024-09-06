@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "@discord/embedded-app-sdk": "^1.4.2"
   }
