@@ -1,6 +1,6 @@
-import { DiscordSDK } from "@discord/embedded-app-sdk";
+const { DiscordSDK } = require("@discord/embedded-app-sdk");
 
-const discordSdk = new DiscordSDK(import.meta.env.VITE_DISCORD_CLIENT_ID);
+const discordSdk = new DiscordSDK(process.env.VITE_DISCORD_CLIENT_ID);
 
 setupDiscordSdk().then(() => {
   console.log("Discord SDK is ready");
@@ -12,7 +12,7 @@ async function setupDiscordSdk() {
 
   // Authorize with Discord Client
   const { code } = await discordSdk.commands.authorize({
-    client_id: import.meta.env.VITE_DISCORD_CLIENT_ID,
+    client_id: process.env.VITE_DISCORD_CLIENT_ID,
     response_type: "code",
     state: "",
     prompt: "none",
