@@ -1,4 +1,4 @@
-import { DiscordSDK } from "./node_modules/@discord/embedded-app-sdk/output/index";
+import { DiscordSDK } from "https://esm.run/@discord/embedded-app-sdk";
 
 const discordSdk = new DiscordSDK(import.meta.env.VITE_DISCORD_CLIENT_ID);
 
