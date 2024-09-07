@@ -1,4 +1,4 @@
-import { DiscordSDK } from "https://esm.run/@discord/embedded-app-sdk";
+import { DiscordSDK } from "https://cdn.jsdelivr.net/npm/@discord/embedded-app-sdk/+esm";
 
 const discordSdk = new DiscordSDK("1070398623638110319");
 
