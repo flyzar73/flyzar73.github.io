@@ -1,4 +1,4 @@
-import { DiscordSDK } from "./node_modules/@discord/embedded-app-sdk/output/index.cjs";
+import { DiscordSDK } from "./node_modules/@discord/embedded-app-sdk/output/index";
 
 const discordSdk = new DiscordSDK(import.meta.env.VITE_DISCORD_CLIENT_ID);
 
