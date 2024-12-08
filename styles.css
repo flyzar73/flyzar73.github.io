@@ -5,6 +5,16 @@
 	box-sizing: border-box;
 }
 
+a {
+	color: gray;
+	text-decoration: none;
+	transition: color 0.3s;
+}
+
+a:hover {
+	color: #f76047;
+}
+
 body {
 	font-family: 'Arial', sans-serif;
 	color: #fff;
