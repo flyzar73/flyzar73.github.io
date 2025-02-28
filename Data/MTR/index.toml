@@ -6,11 +6,6 @@ hash = "5b969b6d2bf3c7d2a03b068868c588173a4e4406fb241fdb03b438fc4815f653"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "df118474115da24a6170420882064ce552d610efd7c3714bd5542266495d38f1"
-metafile = true
-
-[[files]]
 file = "mods/jcm.pw.toml"
 hash = "6087dcb9fba53a7ae6e9a167c8bef98fcff738ef2c010f93ec03c551ac27ec46"
 metafile = true
