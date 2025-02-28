@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "5b969b6d2bf3c7d2a03b068868c588173a4e4406fb241fdb03b438fc4815f653"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a1b01dce48e40cff61f93e9ebade293e17b4f587200ae6b326e0dadaf56c0b9a"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "5a3469459401bc8377eb3d9b93d5d34dc839d03e9ef8e6b015b6ec11d3a4d9bb"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "6087dcb9fba53a7ae6e9a167c8bef98fcff738ef2c010f93ec03c551ac27ec46"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "295e19c8742ee1432c41554656f8369bc489f0a160ed680c159ed3950d5db87c"
+metafile = true
+
+[[files]]
+file = "mods/mtr-london-underground-trains.pw.toml"
+hash = "8baef8a47285fa51cab801ac1039ef80e3b7fdcb8adc815ebe63aaf81a58db5c"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "c35e5df3f0bb29a8f2a5762f7469feb9594aa298bf43e1eafdf80d7aea4f3ce0"
+metafile = true
+
+[[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "446026f7ad18b12622ce3df6b2d64846617b95b37c06341c40f77bf62a7351ee"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "1bf53ba16834a41d0a9a74cba66b4ac34100ec38bbb26f1655174dc59a10bef3"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "4f3b5dcf44ed2359d18e53d0d5ff9b1e90e2ee7f860bb69ccfae615b263c45b1"
+metafile = true

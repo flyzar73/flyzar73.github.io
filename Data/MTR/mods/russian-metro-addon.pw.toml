@@ -1,0 +1,13 @@
+name = "Russian Metro Addon"
+filename = "MTR-Russian-Metro-Addon-forge-4.0.0-2.0.0-beta-4+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TiXnKmME/versions/IxRLTQ4A/MTR-Russian-Metro-Addon-forge-4.0.0-2.0.0-beta-4%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "098c59adbbc776525b92743f99df92466a454054a59f5feff899983f3d5325d3a91680e108e59386166929fad5b8eb6a6f286835ff613896a5f211f9bffd2f02"
+
+[update]
+[update.modrinth]
+mod-id = "TiXnKmME"
+version = "IxRLTQ4A"

@@ -1,0 +1,13 @@
+name = "MTR London Underground Trains"
+filename = "MTR-London-Underground-Trains-forge-1.0.1+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W66PiEZF/versions/IahLqA6P/MTR-London-Underground-Trains-forge-1.0.1%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "e7835ce032e993313bd3293fa86a4d9b50c639059827f418ed8cca8ff75d2bfb43b928c4c0c852d54315ef2fca1f8ff3bf622f40b7813b23c95acbde314475c4"
+
+[update]
+[update.modrinth]
+mod-id = "W66PiEZF"
+version = "IahLqA6P"

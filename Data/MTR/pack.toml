@@ -1,0 +1,13 @@
+name = "MTR"
+author = "Flyzar73"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1ca799556d949f726dc1000e573d3b80515397329df16845591cb9daf1aeacd"
+
+[versions]
+forge = "49.1.37"
+minecraft = "1.20.4"
