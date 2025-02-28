@@ -26,11 +26,6 @@ hash = "8baef8a47285fa51cab801ac1039ef80e3b7fdcb8adc815ebe63aaf81a58db5c"
 metafile = true
 
 [[files]]
-file = "mods/optifine.pw.toml"
-hash = "c35e5df3f0bb29a8f2a5762f7469feb9594aa298bf43e1eafdf80d7aea4f3ce0"
-metafile = true
-
-[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "446026f7ad18b12622ce3df6b2d64846617b95b37c06341c40f77bf62a7351ee"
 metafile = true
