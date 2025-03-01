@@ -1,8 +1,43 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "0553ab9663c9e0fe2de564aef64b045b86f8eff7b48b88cb32a1ba8641a92795"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5b969b6d2bf3c7d2a03b068868c588173a4e4406fb241fdb03b438fc4815f653"
+hash = "a6cecd85a3346765b6826122297823fcedbc807bb1fd01afdcf87e8185e90eb2"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "9459ff42eaf2b8ab62a59a7c0b474c46a4354b96e6b5fc09143ca330d762c5d7"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "9e508304ee3c4241a1b73dc0cd885c203f36f186b4cdaaf8491e82f35444672b"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a208e9ff67e9f566ced0549fae1fb10c5888b6be274511f3707c46f920190b32"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "4f60a688d289b01b625e260db108881a8e99388a8577e36bce2e9865e28dfb6f"
 metafile = true
 
 [[files]]
@@ -11,23 +46,63 @@ hash = "6087dcb9fba53a7ae6e9a167c8bef98fcff738ef2c010f93ec03c551ac27ec46"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "7ead5731a4072507a52965a40f5e0203fc3ebb19427a6c47a2a756633c973552"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "295e19c8742ee1432c41554656f8369bc489f0a160ed680c159ed3950d5db87c"
+hash = "5938c4c9b6533b57fcefd7a12bc843bc4970bf9b9fbdfefa8ca48502049bcbb1"
 metafile = true
 
 [[files]]
 file = "mods/mtr-london-underground-trains.pw.toml"
-hash = "8baef8a47285fa51cab801ac1039ef80e3b7fdcb8adc815ebe63aaf81a58db5c"
+hash = "19b92dac14bbe191911b49650a48575cf9ece31fbb9d16bfcfcaa767825781d9"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
-hash = "446026f7ad18b12622ce3df6b2d64846617b95b37c06341c40f77bf62a7351ee"
+hash = "db421893363ec1fd33575b9a3fb86a93586eb3615adc0831529272b92a0357c7"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce1e1334b4d048f35279f24f23018c02f5070d1eb5d152d1b2361cc628342fe4"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "cab2936a9939350acb6733ebe405e110743f5dfef4afec31ba0d34d759819ced"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "8929f914619d6ce97c8eca54be72358d90d490e79ccdeb6adaa952dec7a14f82"
 metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "1bf53ba16834a41d0a9a74cba66b4ac34100ec38bbb26f1655174dc59a10bef3"
+hash = "246d4a24721f00bf76d9006d1c01cf7f5d002a145085422ba031003886821a01"
 metafile = true
 
 [[files]]
@@ -37,10 +112,25 @@ metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
-hash = "4f3b5dcf44ed2359d18e53d0d5ff9b1e90e2ee7f860bb69ccfae615b263c45b1"
+hash = "12c3c68b2acc336faa50ad397b4a3b98b941e67781bec84ffddb89d707db16d6"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "6328571dba8e40d71ea4adb809c49267f39586e17d3bd72016973200ac1ef13b"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f317aef6d9493a85e8d91a1839bbcb263bc7ac667182d3a65fbbd8c388e448c1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "42823240493dc7fe03a99c20077d272e046d8e48227016a15959462ad1b20cd6"
 metafile = true
