@@ -71,6 +71,11 @@ hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
 
 [[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "efa8263587b679c5c8f14f19d6633ba4fac224dd75a4a63b81d03f59be32c3e1"
+metafile = true
+
+[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "db421893363ec1fd33575b9a3fb86a93586eb3615adc0831529272b92a0357c7"
 metafile = true
