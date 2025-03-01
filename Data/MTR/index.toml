@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a1b01dce48e40cff61f93e9ebade293e17b4f587200ae6b326e0dadaf56c0b9a"
+hash = "a208e9ff67e9f566ced0549fae1fb10c5888b6be274511f3707c46f920190b32"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4f60a688d289b01b625e260db108881a8e99388a8577e36bce2e9865e28dfb6f"
+hash = "fb4972116acd1a6e46d37f08fde1da71cb6c479def67cf1f45cb84a255747d6c"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "5938c4c9b6533b57fcefd7a12bc843bc4970bf9b9fbdfefa8ca48502049bcbb1"
+hash = "2e9269d86c64f0666709715c3f14989451e33625f813469e6eaeac2472662e99"
 metafile = true
 
 [[files]]
