@@ -39,3 +39,8 @@ metafile = true
 file = "mods/the-tube.pw.toml"
 hash = "4f3b5dcf44ed2359d18e53d0d5ff9b1e90e2ee7f860bb69ccfae615b263c45b1"
 metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
+metafile = true
