@@ -1,0 +1,13 @@
+name = "[MTR/NTE] Eurostar class 373"
+filename = "Eurostar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IkZp3S0I/versions/GTAcihM7/Eurostar.zip"
+hash-format = "sha512"
+hash = "e5c1578117ab30c5b90cc4fdaac36c95354fa9932ecfc977c3bb8afa7c4663bad4d36b028fab189a60d2f382c8b1077372a1ed0d98d544ba062279cf0d59a60f"
+
+[update]
+[update.modrinth]
+mod-id = "IkZp3S0I"
+version = "GTAcihM7"
