@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "9459ff42eaf2b8ab62a59a7c0b474c46a4354b96e6b5fc09143ca330d762c5d7"
+hash = "8b71d1be4eaf0761f0160ab5be6d70063c2f67624da2ac52e4a6f87fd56814ba"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6d93d47d5b9b69b4f876dae53e6807ade7ad501580de5d3587c4a20d73743c43"
+hash = "53a754989df8248187383e5c894461929c8a289c8c5aa2f5f946fca2a4d41c06"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fb4972116acd1a6e46d37f08fde1da71cb6c479def67cf1f45cb84a255747d6c"
+hash = "7e27deac0af4ce84f0bd0b7e4c4df6233c824ad41dc5f727fd89815c03bbd5aa"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "7ead5731a4072507a52965a40f5e0203fc3ebb19427a6c47a2a756633c973552"
+hash = "0e90ceb631554d6c640b2c4f5b9d5b18ea478d9528bdda2aba756534084a3193"
 metafile = true
 
 [[files]]
@@ -87,7 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "ce1e1334b4d048f35279f24f23018c02f5070d1eb5d152d1b2361cc628342fe4"
+hash = "9ab38acca0a99077579dfba173f9fdbc3785e2ad1fa20bed05146f5888cd0fba"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "d9e5ed58c6fea4d05c6442cd87d57bffee1028374abc77153996278015cf8b94"
 metafile = true
 
 [[files]]
@@ -122,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "6328571dba8e40d71ea4adb809c49267f39586e17d3bd72016973200ac1ef13b"
+hash = "ed1c4bee943fa14b069cdfaa144f3b7c26faaf71ee29a92f17a3670a4489db1b"
 metafile = true
 
 [[files]]
@@ -132,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f317aef6d9493a85e8d91a1839bbcb263bc7ac667182d3a65fbbd8c388e448c1"
+hash = "74926c81406b50c0d13c18e03aab74bb4eaacbe9eb1d61b4a3acb8646d1e793b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "42823240493dc7fe03a99c20077d272e046d8e48227016a15959462ad1b20cd6"
+hash = "c492f9c1584ac17d943c783eedcdcb38710006ab731322da22d8a9d52b51e997"
 metafile = true
 
 [[files]]

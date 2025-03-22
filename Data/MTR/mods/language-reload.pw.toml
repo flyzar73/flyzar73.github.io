@@ -11,6 +11,3 @@ hash = "b1e67120eef0fa89738ac62d62acb7f73b456c3544c565c5130938050c2e96a60f325f98
 [update.modrinth]
 mod-id = "uLbm7CG6"
 version = "ERpxhwlr"
-
-[option]
-optional = true

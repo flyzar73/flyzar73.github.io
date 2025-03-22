@@ -11,6 +11,3 @@ hash = "ad1a69c7c8d7ff83bdb99cbf25722ad4ce588b41a2469d9005d113022c6f2b5e5c766919
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "Gvqo7ln0"
-
-[option]
-optional = true
