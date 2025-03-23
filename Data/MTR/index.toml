@@ -71,6 +71,11 @@ hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "7c0f365995f3be31ca63741c3b236da945717bfaf5db8cfa9044a93aab3c5f9a"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "2744d6c4c0edb4b13b0c4e371d45209b920ac625a963e6712a4d1790ca7a1173"
 metafile = true
