@@ -121,6 +121,16 @@ hash = "246d4a24721f00bf76d9006d1c01cf7f5d002a145085422ba031003886821a01"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "6aa838b586b8913c10a2b4a610901f89d1ebb1e67d8e8fad258340448db59bfb"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "b8f43a50939082d1d771497405b8c69a9a4a7fd8b32fa8828bafb723e4eb5e21"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
