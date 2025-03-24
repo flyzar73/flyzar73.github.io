@@ -71,11 +71,6 @@ hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
 
 [[files]]
-file = "mods/lp-fabric-placeholderapi-hook.pw.toml"
-hash = "eb1b095772000fae801d3c338b8e2a0cb30665b89ad11f06cf84146d9c159993"
-metafile = true
-
-[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7c0f365995f3be31ca63741c3b236da945717bfaf5db8cfa9044a93aab3c5f9a"
 metafile = true
