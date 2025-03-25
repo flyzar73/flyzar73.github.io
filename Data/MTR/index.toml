@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
+metafile = true
+
+[[files]]
+file = "mods/blossomwarps.pw.toml"
+hash = "d011dd222ff900c9bd1eea73a45665e350c6736027f7a16a5d78a65b96629614"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
