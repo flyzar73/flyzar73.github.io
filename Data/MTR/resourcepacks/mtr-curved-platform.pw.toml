@@ -1,0 +1,13 @@
+name = "MTR: Curved Platform"
+filename = "Curved_Platform_Pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UfIQRRAY/versions/deWKGXXu/Curved_Platform_Pack.zip"
+hash-format = "sha512"
+hash = "8252c98356a09aa930a294c53a5e10303ee768e68dbb0e6e660300ec873ce9f4e3a2ae3437f4a2381572096553c1066547e77ac9dd7021df9f85080c2b96fc66"
+
+[update]
+[update.modrinth]
+mod-id = "UfIQRRAY"
+version = "deWKGXXu"

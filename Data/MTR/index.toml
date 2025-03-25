@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "6087dcb9fba53a7ae6e9a167c8bef98fcff738ef2c010f93ec03c551ac27ec46"
+hash = "fe249abad9943f7cf3db870823fda9ae8b79e903bd510443b2d758114685c8a6"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "246d4a24721f00bf76d9006d1c01cf7f5d002a145085422ba031003886821a01"
+hash = "cbe65a26c924c6ae8bccd354fb85b783a611fb06cafb24ebc5971ed00a35ab78"
 metafile = true
 
 [[files]]
@@ -178,6 +178,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/eurostar-class-373.pw.toml"
 hash = "12a292eeb44f4eb4fb1eee19d786fcb4e941d6db9f217e28c1acbb97ffbcced5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-curved-platform.pw.toml"
+hash = "9aa6667835f39465664af37374e8fda71c6bda00f34957adb1734306ddf4aceb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sncf-pids.pw.toml"
+hash = "530f3c4ad414df16130bfad141332692525b5a09191a5d08f56a60d79741345a"
 metafile = true
 
 [[files]]
