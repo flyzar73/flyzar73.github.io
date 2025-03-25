@@ -1,0 +1,13 @@
+name = "MTR France Sign"
+filename = "Pak France 1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IPRMmgO4/versions/IfO5RwqR/Pak%20France%201.0.zip"
+hash-format = "sha512"
+hash = "3376692ebeeb2036bc53a4e083ea75513a6ef2d87afe6f2559bb07eeee1a282663a48c81dac5a548066dbcf834b615e9f82b3764fe2584c24c89bffe57aba970"
+
+[update]
+[update.modrinth]
+mod-id = "IPRMmgO4"
+version = "IfO5RwqR"

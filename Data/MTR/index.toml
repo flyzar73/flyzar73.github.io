@@ -186,6 +186,11 @@ hash = "9aa6667835f39465664af37374e8fda71c6bda00f34957adb1734306ddf4aceb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr-france.pw.toml"
+hash = "74c52306278118ab9b3ac596825e1310c501e248e283197f9f1016f9ad0dadec"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "1240b00ec222c702054b5ae35d213dc5b01744bb91762aee5d91e00ee2a5d6dd"
 metafile = true
