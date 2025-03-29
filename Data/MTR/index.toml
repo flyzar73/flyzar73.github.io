@@ -162,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro-server.pw.toml"
-hash = "a4290014b9a599dddfa4e6d97de53ea7666771554a01e250c74c98528801e306"
+hash = "3deae2588a823ea34772f0d773cc3fd86e401775b254a1787df380c6662653ae"
 metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "ea8c5ac1b7aed9824273e236051274ff176d5fa927596fbff9a1b9c04db93ad6"
+hash = "f479098859f2bdb00975f014579ad6cfaaaa4a817144cd2ec01586b41d9a2c0c"
 metafile = true
 
 [[files]]
