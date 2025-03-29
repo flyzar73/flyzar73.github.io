@@ -51,6 +51,11 @@ hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
 metafile = true
 
 [[files]]
+file = "mods/filters-api.pw.toml"
+hash = "4cf4992dceab63a7801477c66f7780e0d950568f9002a8536acc8d468e297c29"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
 metafile = true
@@ -153,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/the-tube.pw.toml"
 hash = "12c3c68b2acc336faa50ad397b4a3b98b941e67781bec84ffddb89d707db16d6"
+metafile = true
+
+[[files]]
+file = "mods/tianjin-metro-server.pw.toml"
+hash = "a4290014b9a599dddfa4e6d97de53ea7666771554a01e250c74c98528801e306"
+metafile = true
+
+[[files]]
+file = "mods/tianjin-metro.pw.toml"
+hash = "ea8c5ac1b7aed9824273e236051274ff176d5fa927596fbff9a1b9c04db93ad6"
 metafile = true
 
 [[files]]
