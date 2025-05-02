@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "fe249abad9943f7cf3db870823fda9ae8b79e903bd510443b2d758114685c8a6"
+hash = "685c81c11b12d5c6eaefb72ebc39ea5d7c0d01454179964271f5704760d96d9e"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "2744d6c4c0edb4b13b0c4e371d45209b920ac625a963e6712a4d1790ca7a1173"
+hash = "efd080da37ff2dab38c944ae22d012e6b9de5caf21f188a0aa16b34fa7f120a4"
 metafile = true
 
 [[files]]
