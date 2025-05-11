@@ -1,0 +1,8 @@
+#How many seconds should pass until Jetpack is refueled
+# Default: 30
+# Range: > 1
+fuelConsumptionInterval = 30
+#Enable or disable mod sounds
+enableSounds = false
+#Enable or disable jetpack particles
+enableParticles = false

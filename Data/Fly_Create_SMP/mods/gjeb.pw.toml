@@ -1,0 +1,13 @@
+name = "GJEB (GammaJustExtremeBright)"
+filename = "gjeb-neoforge-1.21.1-1.3.0.38.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c246ff8e404ef4d395a0e88d95ce746cc78396a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6146133
+project-id = 347604
