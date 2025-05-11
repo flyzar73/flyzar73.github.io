@@ -386,11 +386,6 @@ hash = "3010b495fe348272f66e11617aefd064372979efc6c295502feeb8ecc7fcd3fb"
 metafile = true
 
 [[files]]
-file = "mods/create-oxidized.pw.toml"
-hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
-metafile = true
-
-[[files]]
 file = "mods/create-stam1o-tweaks.pw.toml"
 hash = "bbd639fbcc1793b3a3652d10d6d9698ac1b91a44057a78360ae70fcc1f2fee7a"
 metafile = true
@@ -553,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/simple-weather.pw.toml"
 hash = "59a7ffcb97ff5fc001a763001c327dcf2699ac32db9356f016daeb32876b4dc3"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "693730f1285148c60732c5d97a8906964c5e9bc88cdc9576d1fb8b8def95bf68"
 metafile = true
 
 [[files]]
