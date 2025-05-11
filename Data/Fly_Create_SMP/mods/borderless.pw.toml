@@ -1,6 +1,6 @@
 name = "Borderless Window"
 filename = "borderless-neoforge-1.21.4-1.7.2-all.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

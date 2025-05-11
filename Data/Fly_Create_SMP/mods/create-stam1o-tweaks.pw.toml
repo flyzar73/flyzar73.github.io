@@ -1,6 +1,6 @@
 name = "Create: Stam1o Tweaks"
 filename = "Stam1oCreateTweaks-1.0.7+1.21.1-Neo.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
