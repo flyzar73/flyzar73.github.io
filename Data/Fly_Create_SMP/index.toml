@@ -321,13 +321,18 @@ file = "config/xaeroworldmap.txt"
 hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
+metafile = true
+
+[[files]]
 file = "mods/borderless.pw.toml"
 hash = "cbdb47674c3aa01ade9b1023df5aca002af620c4847975f4553a3928ec763158"
 metafile = true
 
 [[files]]
 file = "mods/builders-jetpack-mod.pw.toml"
-hash = "7dcc8067eee39eaf397c53bd7e741e8ba1b65a8b31873c2e801e6d5999a05119"
+hash = "4ae7d8eb30d1c8f4d5acbf73bb3e6ee952594bc30a97fa6765ed917c5ae10e11"
 metafile = true
 
 [[files]]
@@ -393,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "b3e1e88fae7462809ceaef7394e36c01bf422bbd939aa7393fa4f3a9cd5b0fe6"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
 
 [[files]]

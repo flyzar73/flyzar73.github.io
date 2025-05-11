@@ -1,13 +1,13 @@
 name = "Builders' Jetpack Mod"
-filename = "buildersjetpackmod-3.1-1.21.1.jar"
+filename = "buildersjetpackmod-2.0-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f6b6f6361d81828d4a64fe1f5399a4746863db7f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/FU3J9Ce4/versions/81GhRxm9/buildersjetpackmod-2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "d4670f37408a8e2c5b92044ed509dc2fd7306826eedfd4343efee3ba5b965b4bb4d785ae02e47b1437f025ef5e2b10e99fc8b2b2b767cf3192c8aea964887774"
 
 [update]
-[update.curseforge]
-file-id = 5916556
-project-id = 933053
+[update.modrinth]
+mod-id = "FU3J9Ce4"
+version = "81GhRxm9"
