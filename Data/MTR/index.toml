@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "53a754989df8248187383e5c894461929c8a289c8c5aa2f5f946fca2a4d41c06"
+hash = "6d93d47d5b9b69b4f876dae53e6807ade7ad501580de5d3587c4a20d73743c43"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/eurostar-class-373.pw.toml"
-hash = "12a292eeb44f4eb4fb1eee19d786fcb4e941d6db9f217e28c1acbb97ffbcced5"
+hash = "de0c5e9099dba957b03f76c3951e2438d5a5a22799980a28e608603205a3c16d"
 metafile = true
 
 [[files]]
