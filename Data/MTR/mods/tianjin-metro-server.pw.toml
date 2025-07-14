@@ -1,8 +1,8 @@
 name = "tianjin-metro-server"
-filename = "SERVER-1.0.0-beta-4+1.20.4.jar"
+filename = "SERVER-1.0.0-prerelease-1+1.20.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0Pb6K4u/versions/ee3Hkr2m/SERVER-1.0.0-beta-4%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/P0Pb6K4u/versions/vY0PpDK7/SERVER-1.0.0-prerelease-1%2B1.20.4.jar"
 hash-format = "sha256"
-hash = "19a0b35da10330c3d0143eecbe693d9afa926761482f094efbaee0cfee3efc40"
+hash = "d74a52f519eddb56a332cbb340b54821cf66494c606664dbdc555e3439352ac3"
