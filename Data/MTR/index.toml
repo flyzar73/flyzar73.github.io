@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "479090c70c1dfcbcd50516500cc99df70aede85546d511b8e03644ea6eb59656"
+metafile = true
+
+[[files]]
 file = "mods/blossomlib.pw.toml"
 hash = "f16a5795a6ba42c12667f25f67ad0d50f2e384a13e1378d68f2daf6464f65293"
 metafile = true
@@ -51,6 +56,11 @@ hash = "9e508304ee3c4241a1b73dc0cd885c203f36f186b4cdaaf8491e82f35444672b"
 metafile = true
 
 [[files]]
+file = "mods/customhud.pw.toml"
+hash = "d5a67981242e69e751a947f0d01d0af264da343ec5af2a67cf3f02889626f4e9"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "6d93d47d5b9b69b4f876dae53e6807ade7ad501580de5d3587c4a20d73743c43"
 metafile = true
@@ -71,6 +81,11 @@ hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "67099bc47fc849c2964b3b64b6f3af6fcbf941d9a4f1c03dda25f746b279015b"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
 metafile = true
@@ -87,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "0e90ceb631554d6c640b2c4f5b9d5b18ea478d9528bdda2aba756534084a3193"
+hash = "aef267b1c5d346743f8634d446df201557919d701c7dbb922b664fc36197c91a"
 metafile = true
 
 [[files]]
@@ -108,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "82d4831c9846a14ebb04b591158a363096ee8ee158965bbf4d26f056a44f728f"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
 metafile = true
 
 [[files]]

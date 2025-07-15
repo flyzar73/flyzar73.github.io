@@ -11,3 +11,7 @@ hash = "7d1dee100a1106c99716f56e09e27f65510f2346bb436481bc45620c693348f8bc8661a8
 [update.modrinth]
 mod-id = "NSLJJooQ"
 version = "MsivFd3o"
+
+[option]
+optional = true
+description = "[[ For Builders 建築者用 ]]\nShows WorldEdit selection visually. (Tip: You can assign a hotkey for deselecting)\n圖形化顯示 WorldEdit 的選區。(提示: 可綁定一個取消選擇的熱鍵)\n"
