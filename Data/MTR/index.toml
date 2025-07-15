@@ -16,6 +16,11 @@ hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]
+file = "mods/bta.pw.toml"
+hash = "92edbb52119c01f1640a5a366c97d2669b152c75a2f9c9cba2038329c97abd68"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "0553ab9663c9e0fe2de564aef64b045b86f8eff7b48b88cb32a1ba8641a92795"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/filters-api.pw.toml"
 hash = "4cf4992dceab63a7801477c66f7780e0d950568f9002a8536acc8d468e297c29"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
 metafile = true
 
 [[files]]
