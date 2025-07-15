@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "685c81c11b12d5c6eaefb72ebc39ea5d7c0d01454179964271f5704760d96d9e"
+hash = "986b1e790cb00b682c241c145102b1f3fa81d0d735db8d360aa4bb49df43eb75"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "61af3225086dbe61941d3c5ff5ab5a7b9d168456f3923804cd0ca4408aa6b08c"
+hash = "473620674d108d1d4680baf029ce5899031de98eb98fdd22eec6ba8c8b468e08"
 metafile = true
 
 [[files]]
