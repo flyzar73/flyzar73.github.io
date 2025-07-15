@@ -216,6 +216,11 @@ hash = "eef58365212112b01c49a4b7c1d179d78994f3ad1f89c7943a2b73872aae1dbf"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sncf-pids.pw.toml"
+hash = "5bec764a53c0fcd3bfa93bcfe3abe896476d256ae505167985213b19b502d56e"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "1240b00ec222c702054b5ae35d213dc5b01744bb91762aee5d91e00ee2a5d6dd"
 metafile = true
