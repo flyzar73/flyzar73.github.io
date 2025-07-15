@@ -36,6 +36,11 @@ hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cd0e5455244e638827e5d42c93a66926690410266527adbbe025c0da3f36b74b"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "8b71d1be4eaf0761f0160ab5be6d70063c2f67624da2ac52e4a6f87fd56814ba"
 metafile = true
