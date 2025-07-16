@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8b71d1be4eaf0761f0160ab5be6d70063c2f67624da2ac52e4a6f87fd56814ba"
+hash = "885908c540626297072959564d731411626d1c4e248eb0b6d8ae6164471b0150"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-hash = "d5a67981242e69e751a947f0d01d0af264da343ec5af2a67cf3f02889626f4e9"
+hash = "d87884cd5a550750a8013824169490966149c044f0d044fbe172c3a09bd8950b"
 metafile = true
 
 [[files]]
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/filters-api.pw.toml"
 hash = "4cf4992dceab63a7801477c66f7780e0d950568f9002a8536acc8d468e297c29"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "9b1e3e4b790bf36c10800b6d96c15a2191bca7f8570049ac5e61015edba85ee5"
 metafile = true
 
 [[files]]
@@ -122,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "82d4831c9846a14ebb04b591158a363096ee8ee158965bbf4d26f056a44f728f"
+hash = "7dc6309348b6534a370d8c5156f23e3bd420c750999a0526535e7b79abc45637"
 metafile = true
 
 [[files]]
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "ed1c4bee943fa14b069cdfaa144f3b7c26faaf71ee29a92f17a3670a4489db1b"
+hash = "b5ab705c82ec5ba0d1b912423fd1b5a66a7910864ea54095c70cdf5104f2cabc"
 metafile = true
 
 [[files]]
@@ -217,12 +222,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "74926c81406b50c0d13c18e03aab74bb4eaacbe9eb1d61b4a3acb8646d1e793b"
+hash = "2721843f2c91d83342636a1e2c03b6b6820b6384e97cd52bc4f99bac32eae6c5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c492f9c1584ac17d943c783eedcdcb38710006ab731322da22d8a9d52b51e997"
+hash = "b54bba47fbe15c13393a10f91626fdb95536ed016bcabe667ae606e128a2c718"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "0b3c0f2f4c653d660a3be5dbb7c308ffe6dae085424e40c03be3e0452565a392"
 metafile = true
 
 [[files]]
