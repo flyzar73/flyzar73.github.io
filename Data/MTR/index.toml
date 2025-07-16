@@ -216,6 +216,11 @@ hash = "473620674d108d1d4680baf029ce5899031de98eb98fdd22eec6ba8c8b468e08"
 metafile = true
 
 [[files]]
+file = "mods/time-control.pw.toml"
+hash = "066c036008edf7d5700104add1fb40cc08b297c95e39149e28c4449c3eb3556e"
+metafile = true
+
+[[files]]
 file = "mods/worldedit-cui.pw.toml"
 hash = "b5ab705c82ec5ba0d1b912423fd1b5a66a7910864ea54095c70cdf5104f2cabc"
 metafile = true
