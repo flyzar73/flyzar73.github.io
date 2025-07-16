@@ -71,13 +71,18 @@ hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+metafile = true
+
+[[files]]
 file = "mods/filters-api.pw.toml"
 hash = "4cf4992dceab63a7801477c66f7780e0d950568f9002a8536acc8d468e297c29"
 metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "9b1e3e4b790bf36c10800b6d96c15a2191bca7f8570049ac5e61015edba85ee5"
+hash = "5fd501bacb566638ed064d5a6945b0fa3c81b681d104d9b5ac8136c7c6599e67"
 metafile = true
 
 [[files]]
@@ -231,8 +236,13 @@ hash = "b54bba47fbe15c13393a10f91626fdb95536ed016bcabe667ae606e128a2c718"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0b3c0f2f4c653d660a3be5dbb7c308ffe6dae085424e40c03be3e0452565a392"
+hash = "d1e2a22c480a6155cf4181fc25402f68085175e9899c7f58a0127bb187d3ee32"
 metafile = true
 
 [[files]]
