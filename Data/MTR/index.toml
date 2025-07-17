@@ -66,6 +66,11 @@ hash = "6d93d47d5b9b69b4f876dae53e6807ade7ad501580de5d3587c4a20d73743c43"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "28ca5dd31c3934f0e22cff0baefdafbd87290722620f3e286805c040c67ee234"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "d9e5ed58c6fea4d05c6442cd87d57bffee1028374abc77153996278015cf8b94"
+metafile = true
+
+[[files]]
+file = "mods/slideshow-fabric.pw.toml"
+hash = "e94c10cc685e2b6de37dc41f133918cb3a6ea1a1a72e782f2b4cffd0fc0a82a4"
 metafile = true
 
 [[files]]
