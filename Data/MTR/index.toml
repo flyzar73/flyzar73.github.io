@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "instance.rar"
-hash = "1edd02a35cd0576caf1b180d01506ab5eecc72b63431ce5a09733b6d4c54a342"
-
-[[files]]
 file = "mods/banhammer.pw.toml"
 hash = "479090c70c1dfcbcd50516500cc99df70aede85546d511b8e03644ea6eb59656"
 metafile = true
