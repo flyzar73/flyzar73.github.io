@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "instance.rar"
+hash = "1edd02a35cd0576caf1b180d01506ab5eecc72b63431ce5a09733b6d4c54a342"
+
+[[files]]
 file = "mods/banhammer.pw.toml"
 hash = "479090c70c1dfcbcd50516500cc99df70aede85546d511b8e03644ea6eb59656"
 metafile = true
@@ -117,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "aef267b1c5d346743f8634d446df201557919d701c7dbb922b664fc36197c91a"
+hash = "e66b9407c6bb7fb370661b6c2a73f01810d7e8f267a5583b93c259d0908ebfbc"
 metafile = true
 
 [[files]]
