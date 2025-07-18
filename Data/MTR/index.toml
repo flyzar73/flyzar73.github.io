@@ -261,8 +261,9 @@ hash = "d1e2a22c480a6155cf4181fc25402f68085175e9899c7f58a0127bb187d3ee32"
 metafile = true
 
 [[files]]
-file = "resourcepacks/MTR.zip"
-hash = "292afa8915d5af64ddd67d810a52b369d3991fc6b9caca4fe8bad9f399bfb838"
+file = "resourcepacks/airlink_shuttle_345.pw.toml"
+hash = "b21421ce15ba5d4467db6d8c51629737dd8508dc013a7d32d4f699a6d0f28ebf"
+metafile = true
 
 [[files]]
 file = "resourcepacks/eurostar-class-373.pw.toml"
@@ -275,8 +276,18 @@ hash = "828995c0713149637423f38dce160420bad5ab4585a1e00828f09d289262ec22"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr-france.pw.toml"
+hash = "6d0bfbcbfb90a17d9e099a1c754c3d34b77cfa12954e622467b7337c0e9b3762"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rnet-stadler-flirt-3.pw.toml"
 hash = "04c446887df17d6f32a52870e787eae390f348d47a101531ff392689e6c3c794"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sncf-pids.pw.toml"
+hash = "5bec764a53c0fcd3bfa93bcfe3abe896476d256ae505167985213b19b502d56e"
 metafile = true
 
 [[files]]
