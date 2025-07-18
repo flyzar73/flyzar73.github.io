@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+hash = "f26fb3886f4c53b3284264cacfebb4bfe68a189205363e8e406896c847c1e0ea"
 metafile = true
 
 [[files]]
@@ -261,9 +261,8 @@ hash = "d1e2a22c480a6155cf4181fc25402f68085175e9899c7f58a0127bb187d3ee32"
 metafile = true
 
 [[files]]
-file = "resourcepacks/airlink_shuttle_345.pw.toml"
-hash = "b21421ce15ba5d4467db6d8c51629737dd8508dc013a7d32d4f699a6d0f28ebf"
-metafile = true
+file = "resourcepacks/MTR.zip"
+hash = "df4a6ba587f74fcdf378228571aeab26b02f1841e139d6938a6f97f510f84c9a"
 
 [[files]]
 file = "resourcepacks/eurostar-class-373.pw.toml"
@@ -272,22 +271,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-curved-platform.pw.toml"
-hash = "9aa6667835f39465664af37374e8fda71c6bda00f34957adb1734306ddf4aceb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-france.pw.toml"
-hash = "74c52306278118ab9b3ac596825e1310c501e248e283197f9f1016f9ad0dadec"
+hash = "828995c0713149637423f38dce160420bad5ab4585a1e00828f09d289262ec22"
 metafile = true
 
 [[files]]
 file = "resourcepacks/rnet-stadler-flirt-3.pw.toml"
-hash = "eef58365212112b01c49a4b7c1d179d78994f3ad1f89c7943a2b73872aae1dbf"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sncf-pids.pw.toml"
-hash = "5bec764a53c0fcd3bfa93bcfe3abe896476d256ae505167985213b19b502d56e"
+hash = "04c446887df17d6f32a52870e787eae390f348d47a101531ff392689e6c3c794"
 metafile = true
 
 [[files]]

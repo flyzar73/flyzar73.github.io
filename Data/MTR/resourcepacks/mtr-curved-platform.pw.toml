@@ -11,3 +11,6 @@ hash = "8252c98356a09aa930a294c53a5e10303ee768e68dbb0e6e660300ec873ce9f4e3a2ae34
 [update.modrinth]
 mod-id = "UfIQRRAY"
 version = "deWKGXXu"
+
+[option]
+optional = true

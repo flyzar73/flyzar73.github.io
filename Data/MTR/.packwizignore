@@ -1,5 +1,5 @@
 instance/
 README.md
 *.rar
-*.zip
+/*.zip
 *.mrpack
