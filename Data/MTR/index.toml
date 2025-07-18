@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "6a9625e6205bc79330b518365312f9ac1c62f0d2711d90eb99507f55be2509bf"
+hash = "016998eeb4d6a62a48b7245ce345d22af9a5d8b689efe7f3e3b1e0369d7bcfe0"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/MF67.zip"
-hash = "6c1da878bc914887506d0e4850180ac1f78ed9cafe6bd637cf72150b1b667925"
+hash = "98fdf1d8e1a7f4ac113a7d8e5d19bff2eddd1f552b85ce349228d0bf596385fc"
 
 [[files]]
 file = "resourcepacks/airlink_shuttle_345.pw.toml"
