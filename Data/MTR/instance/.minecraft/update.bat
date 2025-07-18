@@ -1,0 +1,1 @@
+java -jar packwiz-installer-bootstrap.jar https://flyzar73.github.io/Data/MTR/pack.toml
