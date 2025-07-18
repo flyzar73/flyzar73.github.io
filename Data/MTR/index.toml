@@ -261,6 +261,10 @@ hash = "d1e2a22c480a6155cf4181fc25402f68085175e9899c7f58a0127bb187d3ee32"
 metafile = true
 
 [[files]]
+file = "resourcepacks/MF67.zip"
+hash = "f11f092d9693d216d78d22f857c31eb929ebc51934acdd189f8a0e9ece7b4a0f"
+
+[[files]]
 file = "resourcepacks/airlink_shuttle_345.pw.toml"
 hash = "b21421ce15ba5d4467db6d8c51629737dd8508dc013a7d32d4f699a6d0f28ebf"
 metafile = true
