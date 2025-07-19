@@ -275,6 +275,14 @@ file = "resourcepacks/MF67.zip"
 hash = "98fdf1d8e1a7f4ac113a7d8e5d19bff2eddd1f552b85ce349228d0bf596385fc"
 
 [[files]]
+file = "resourcepacks/RailPneumatique.zip"
+hash = "b76797d4e89e49dd73a1b8cac30ca5d3c19cc7ad6ec4ee07c88aa1cbacc0b2a4"
+
+[[files]]
+file = "resourcepacks/VAL206.zip"
+hash = "bc9110a957b3b0567ff3b1edce25a951d13b43bef8c836c6a89b561c4d69ee21"
+
+[[files]]
 file = "resourcepacks/airlink_shuttle_345.pw.toml"
 hash = "b21421ce15ba5d4467db6d8c51629737dd8508dc013a7d32d4f699a6d0f28ebf"
 metafile = true
