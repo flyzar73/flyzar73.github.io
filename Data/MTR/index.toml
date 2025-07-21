@@ -156,6 +156,11 @@ hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
 metafile = true
 
 [[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "60b9114110147ce273a10b208eaf2356e5ebb83a9be04b8ff2899f56cdb543a3"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
@@ -275,8 +280,16 @@ file = "resourcepacks/MF67.zip"
 hash = "98fdf1d8e1a7f4ac113a7d8e5d19bff2eddd1f552b85ce349228d0bf596385fc"
 
 [[files]]
-file = "resourcepacks/RailPneumatique.zip"
+file = "resourcepacks/MTR_srteuropean_continental_4.0_250217.zip"
+hash = "2a2c1f9ab796d806e0b0fcc746310a38477192094830bb35f17943b7e97c320c"
+
+[[files]]
+file = "resourcepacks/Rail_MTR.zip"
 hash = "b76797d4e89e49dd73a1b8cac30ca5d3c19cc7ad6ec4ee07c88aa1cbacc0b2a4"
+
+[[files]]
+file = "resourcepacks/S-Bahn pack v1.0 beta.zip"
+hash = "f7daf9dd31fa4de24fcc51176e3cbe1702ff5a1b1817b252522be0fe9985b780"
 
 [[files]]
 file = "resourcepacks/VAL206.zip"
@@ -286,6 +299,10 @@ hash = "bc9110a957b3b0567ff3b1edce25a951d13b43bef8c836c6a89b561c4d69ee21"
 file = "resourcepacks/airlink_shuttle_345.pw.toml"
 hash = "b21421ce15ba5d4467db6d8c51629737dd8508dc013a7d32d4f699a6d0f28ebf"
 metafile = true
+
+[[files]]
+file = "resourcepacks/ep2d_main.zip"
+hash = "b31a43e7270aab9373bc799b086a22fde67ad143da7bf79b971aff219e92c9e3"
 
 [[files]]
 file = "resourcepacks/eurostar-class-373.pw.toml"
