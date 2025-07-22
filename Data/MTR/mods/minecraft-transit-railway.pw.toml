@@ -3,9 +3,9 @@ filename = "MTR-fabric-4.0.0-prerelease.3+1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Minecraft-Transit-Railway/LetsPlay-Packwiz/raw/refs/heads/master/mods/MTR-fabric-4.0.0-prerelease.3+1.20.4.jar"
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/yrJ1vwEM/MTR-fabric-4.0.0-prerelease.3%2B1.20.4.jar"
 hash-format = "sha512"
-hash = "cb53d7ea56cb5d355b40894580fe48c53fbeb9d2b53eb23bc4d7791df18dc80db19d8d5dafe3e0061b2a26a813a2bc943d498313682fff56bac46cb1ac34df9b"
+hash = "8ac8f05b0aaa9355c98d9db3cfcca97c4f5e9e0c4218d7dc9bae15d363bd354415d3b9e25168db8bf98a200f7f9ab38ad65cbc0555fa4c4723fd542aba0e0a63"
 
 [update]
 [update.modrinth]

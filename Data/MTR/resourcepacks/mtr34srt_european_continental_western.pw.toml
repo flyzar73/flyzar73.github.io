@@ -1,0 +1,13 @@
+name = "[MTR3/4]Srt European Continental Trains"
+filename = "MTR_srteuropean_continental_western_4.0_250525.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XmodF98W/versions/MNQSzTgL/MTR_srteuropean_continental_western_4.0_250525.zip"
+hash-format = "sha512"
+hash = "55015855035a3ce8aba5000d69f0b14cd0e33f28b8f8e447363f643c0ebe4cb8ede12e70e9bdf840e420aa9c86e243e5bcc191c7037b329714de50291dd02305"
+
+[update]
+[update.modrinth]
+mod-id = "XmodF98W"
+version = "MNQSzTgL"
