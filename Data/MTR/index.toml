@@ -327,10 +327,6 @@ file = "resourcepacks/Rail_MTR.zip"
 hash = "b76797d4e89e49dd73a1b8cac30ca5d3c19cc7ad6ec4ee07c88aa1cbacc0b2a4"
 
 [[files]]
-file = "resourcepacks/S-Bahn pack v1.0 beta.zip"
-hash = "f7daf9dd31fa4de24fcc51176e3cbe1702ff5a1b1817b252522be0fe9985b780"
-
-[[files]]
 file = "resourcepacks/VAL206.zip"
 hash = "bc9110a957b3b0567ff3b1edce25a951d13b43bef8c836c6a89b561c4d69ee21"
 
@@ -378,10 +374,6 @@ metafile = true
 file = "resourcepacks/sncf-pids.pw.toml"
 hash = "5bec764a53c0fcd3bfa93bcfe3abe896476d256ae505167985213b19b502d56e"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "02d7843d754ee03ca2fc8b2499d75d734de20feaba93df7767692fd84ee0738a"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
