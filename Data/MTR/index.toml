@@ -25,13 +25,8 @@ hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]
-file = "mods/bta.pw.toml"
-hash = "92edbb52119c01f1640a5a366c97d2669b152c75a2f9c9cba2038329c97abd68"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
-hash = "0553ab9663c9e0fe2de564aef64b045b86f8eff7b48b88cb32a1ba8641a92795"
+hash = "f2ae02e4b94f8eb226e40f144b46adf93f44d8200826bcfc52d05c0d8de4dc0d"
 metafile = true
 
 [[files]]
@@ -102,11 +97,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "5fd501bacb566638ed064d5a6945b0fa3c81b681d104d9b5ac8136c7c6599e67"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "83ad7d21bc43be38232b2d818ac5b9d45a44a03c140709eb3e0aa26ea73dca37"
 metafile = true
 
 [[files]]
@@ -281,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "f2562d14449152309b322e7fe65f6dba16fb9aa8b4e8fffb238948547ce3e9dd"
+hash = "d67d5706b73e2b1cb60c1a8f6da97370f2538298a4d34adedb757c13a8b7e07e"
 metafile = true
 
 [[files]]
@@ -306,12 +296,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "96400bf394997993f83107cdcfcc5154f403111a35e4bd7a7bba9f99de23af75"
+hash = "d8d967f2ac93e02e69d0fc1516d9b35560524620403a764af603614f22d14dbc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c50930ff34ebaa8e6903d3bcf8d1a7e312b2ec22f2d04499bcec50ecfc0a9643"
+hash = "981f97ce9d206c9eca5b4d59be3830fb1a5f0fca262ac0b634ed6adeff53570d"
 metafile = true
 
 [[files]]
@@ -388,6 +378,10 @@ metafile = true
 file = "resourcepacks/sncf-pids.pw.toml"
 hash = "5bec764a53c0fcd3bfa93bcfe3abe896476d256ae505167985213b19b502d56e"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "02d7843d754ee03ca2fc8b2499d75d734de20feaba93df7767692fd84ee0738a"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
