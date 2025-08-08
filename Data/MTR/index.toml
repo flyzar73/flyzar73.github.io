@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "986b1e790cb00b682c241c145102b1f3fa81d0d735db8d360aa4bb49df43eb75"
+hash = "2d9bea62af7ceb1c87b2bfb4612d4311bf30d7f179a2fab7af6e72af1630b34a"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "82d4831c9846a14ebb04b591158a363096ee8ee158965bbf4d26f056a44f728f"
+hash = "4cf543d0d130c7c74235adb7ace1b625349ef539c2cb098e9693da7fbd0ead88"
 metafile = true
 
 [[files]]
@@ -168,6 +168,10 @@ metafile = true
 file = "mods/more-slabs-stairs-and-walls.pw.toml"
 hash = "60b9114110147ce273a10b208eaf2356e5ebb83a9be04b8ff2899f56cdb543a3"
 metafile = true
+
+[[files]]
+file = "mods/mtrfranceaddon-0.0.1.jar"
+hash = "3d989243cd35e1837ed2ca593ec3dd0a63cae0d0b02be030e014f29f62db1ef8"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -319,10 +323,6 @@ file = "resourcepacks/MF67.zip"
 hash = "98fdf1d8e1a7f4ac113a7d8e5d19bff2eddd1f552b85ce349228d0bf596385fc"
 
 [[files]]
-file = "resourcepacks/MI79.zip"
-hash = "096b69527bf60b6c8caa615b364c9fdc89b7db2144705eac1554fbada3d33d56"
-
-[[files]]
 file = "resourcepacks/Rail_MTR.zip"
 hash = "b76797d4e89e49dd73a1b8cac30ca5d3c19cc7ad6ec4ee07c88aa1cbacc0b2a4"
 
@@ -338,16 +338,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/eurostar-class-373.pw.toml"
 hash = "de0c5e9099dba957b03f76c3951e2438d5a5a22799980a28e608603205a3c16d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-curved-platform.pw.toml"
-hash = "828995c0713149637423f38dce160420bad5ab4585a1e00828f09d289262ec22"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-france.pw.toml"
-hash = "6d0bfbcbfb90a17d9e099a1c754c3d34b77cfa12954e622467b7337c0e9b3762"
 metafile = true
 
 [[files]]
