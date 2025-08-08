@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTRFranceAddon-1.0.0.jar"
-hash = "31d1dc74c615ded84de02751ff79eae178a3a685056d50a6252823dccddf2568"
+hash = "3d88c7a48020146253000f6f0e382253b6ec6069144281f52ee16fd88fe5b1f8"
 
 [[files]]
 file = "mods/banhammer.pw.toml"
@@ -349,16 +349,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr34srt_european_continental_western.pw.toml"
 hash = "2a0f21bc4c2b3f39d3ffc003bb225b837165107d39696153998f96aef7c62ae2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rnet-stadler-flirt-3.pw.toml"
-hash = "04c446887df17d6f32a52870e787eae390f348d47a101531ff392689e6c3c794"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sncf-pids.pw.toml"
-hash = "5bec764a53c0fcd3bfa93bcfe3abe896476d256ae505167985213b19b502d56e"
 metafile = true
 
 [[files]]
