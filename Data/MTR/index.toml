@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/custom-hud/profile1.txt"
-hash = "10d7691ad85825af13bb637bb96ea7235e4e4886dbc48b490d6d34c7b9476265"
+file = "mods/MTRFranceAddon-1.0.0.jar"
+hash = "31d1dc74c615ded84de02751ff79eae178a3a685056d50a6252823dccddf2568"
 
 [[files]]
 file = "mods/banhammer.pw.toml"
@@ -168,10 +168,6 @@ metafile = true
 file = "mods/more-slabs-stairs-and-walls.pw.toml"
 hash = "60b9114110147ce273a10b208eaf2356e5ebb83a9be04b8ff2899f56cdb543a3"
 metafile = true
-
-[[files]]
-file = "mods/mtrfranceaddon-0.0.1.jar"
-hash = "3d989243cd35e1837ed2ca593ec3dd0a63cae0d0b02be030e014f29f62db1ef8"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
