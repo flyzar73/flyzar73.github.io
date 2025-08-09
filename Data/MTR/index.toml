@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTRFranceAddon-1.0.0.jar"
-hash = "2ab6bcbf8e687874995b42b4e39a8ea6296414f84b312a1604729b415ee4d838"
+hash = "4c9f8b1d4e73441eef94c0e46dace77a6381aa181f0396810aa19ba5f8546de6"
 
 [[files]]
 file = "mods/banhammer.pw.toml"
