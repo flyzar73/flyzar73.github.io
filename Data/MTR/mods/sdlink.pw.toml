@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Sh0YauEf/versions/zX9ZfDNw/SimpleDiscordLink-Universal-3.3.2.jar"
-hash-format = "sha512"
-hash = "495d5c14cc5e38089bb842cb3e92d352c805573edea4d2c5bac5da4eedff3563768a6ce9f0dbbe9633c2086e0796ccb4dc922206568069ab0bf9591f52442ac9"
+hash-format = "sha256"
+hash = "d9dc4344339069d3cbb3b8aed826e6062d412ab9a57c8210db5a9e4caeb8dcc8"
 
 [update]
 [update.modrinth]

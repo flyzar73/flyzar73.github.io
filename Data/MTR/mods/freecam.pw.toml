@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/Z3aFQTNR/freecam-fabric-1.2.3%2B1.20.4.jar"
-hash-format = "sha512"
-hash = "723e94036504d8067d6108046c3dc3848cff5cd6e1fdc5b28790b5c561a8c163f7c73d29a66c3bed85aec3927786df5e1997b984241054473995f18d1304d0bc"
+hash-format = "sha256"
+hash = "fe50f771d824e8e8ee646180fdfe3635ccdece84cb8d395e937afd8bc133b1bf"
 
 [update]
 [update.modrinth]

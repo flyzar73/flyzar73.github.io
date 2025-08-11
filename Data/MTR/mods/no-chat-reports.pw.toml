@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Pjto4zdj/NoChatReports-FABRIC-1.20.4-v2.6.1.jar"
-hash-format = "sha512"
-hash = "a2ca389f4024a2089dd1224713e23f356067fbfd27aaf6f3aa74ad28b75d6f0d19e0ed07e721035943964730a2d2a09473067d0d4db34ce7d5b7d6a15a6a5b42"
+hash-format = "sha256"
+hash = "777108986c485f4020d42ebdf21b4442e3ea67a0cc0043994b5bea9dd5c16474"
 
 [update]
 [update.modrinth]

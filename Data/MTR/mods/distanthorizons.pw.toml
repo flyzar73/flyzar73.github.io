@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/CpKi1usB/DistantHorizons-2.3.4-b-1.20.4-fabric-forge.jar"
-hash-format = "sha512"
-hash = "f8d53f084122742e62e5cfb8bd1cc88fc8f3ae7e5b228fb776ea212ffb68b976b9158908c798987035faff58ad1d3d7c5a65df9e5a53e05b5f758d8710264b8f"
+hash-format = "sha256"
+hash = "d795ad7051a6e9311b87e17b24c19d03fb91b88e2c1d0e4c9f2d7c81db9590a4"
 
 [update]
 [update.modrinth]

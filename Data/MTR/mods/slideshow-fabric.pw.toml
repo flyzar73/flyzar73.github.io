@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/CvIO1eYD/versions/RPV4f4Kr/Slideshow-fabric-1.20.4-1.0.3-Enhancement-1.jar"
-hash-format = "sha512"
-hash = "a84507a4de9b67d6b210e9eda75ab2d2f2d5e3910011f418bfeb8726e315267150bc20650745f405edffcf21d5ce1665a797edd7deca10deb0c1e4c1b21a754e"
+hash-format = "sha256"
+hash = "086af98b1ff2991579f5c3ec5eb02e98a9bea21314f178729829f70ae355a4fa"
 
 [update]
 [update.modrinth]

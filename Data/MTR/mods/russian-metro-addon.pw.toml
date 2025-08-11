@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TiXnKmME/versions/LnadObSq/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4%2B1.20.4.jar"
-hash-format = "sha512"
-hash = "d2dfc786449a6583356bd5222ae22243860d3ba3678d9090f21ebb4442f68071b0b6d17a27a24a77985e733974f566afed7bc1aa27edc423b187b805fbd52195"
+hash-format = "sha256"
+hash = "626cc1f530b497cf332afd373198254c064e7edc67628ab481175219f1b5182d"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/P0Pb6K4u/versions/YmFj9Iaj/Tianjin-Metro-1.0.0%2B1.20.4.jar"
-hash-format = "sha512"
-hash = "1010c485ef0fff9b889fdb1047d5c1bde23c0ad7255fb41e134de65a242fbd23653e4620347175d2c110e225985ec4dadd57747a03631203598155871ec9e3fc"
+hash-format = "sha256"
+hash = "5c3339e36d9c053c61f2322c85b3632ae9a1482d5f67b15008ed1f7f374f893a"
 
 [update]
 [update.modrinth]

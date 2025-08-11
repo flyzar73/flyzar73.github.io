@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/naBrvjcq/versions/C1uk6xEd/FABRIC-1.0.1%2B1.20.4.jar"
-hash-format = "sha512"
-hash = "e1efff40454cc93aa2aec060d2fc8b32fb08da11d95f935291cb55c1de715923b7d78a5b3a55fa3db06e8f1a94f68cfbe5447b485372f92844cea5cd49cc6af7"
+hash-format = "sha256"
+hash = "24e527c4aa533fc80d7bacef3b72ff31201e24eecce77138dbcfd59ecdd63b90"
 
 [update]
 [update.modrinth]

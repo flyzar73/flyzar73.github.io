@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/VLMe7pfI/versions/TTFzdXEg/TakeASeat-1.0.2%2Bmc1.20.1.jar"
-hash-format = "sha512"
-hash = "635097f0e89cebe908d8362555b2630e977192f7503a23da0b8c2911ab8bc2afc3620e72cdcf462b8c068b4579d30b78882a001eb568cbe1f4aa5f9715b22cd1"
+hash-format = "sha256"
+hash = "b6869b65fa70a30bff47e4ab64fb61540b26cfe8f7624483ad2d64c95530aa4a"
 
 [update]
 [update.modrinth]

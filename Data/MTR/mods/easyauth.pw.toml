@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/aZj58GfX/versions/tRpMio7q/easyauth-mc1.20.4-3.3.5.jar"
-hash-format = "sha512"
-hash = "5838b7b1facb59d908315f42a7fdba75b7114f51576fd13d43c9e40246d3c7e155e63bb686fd92d5f95644d49e17b44e324bede08a204ce1471137923217010f"
+hash-format = "sha256"
+hash = "9cf9f905d1287ac822977b066004ed37d66c4b540b685dff34ececd10d790913"
 
 [update]
 [update.modrinth]

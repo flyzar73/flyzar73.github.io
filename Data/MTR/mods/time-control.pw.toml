@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Mksh0eV4/versions/FJGTaPiK/timecontrol-1.20.4-1.6.0.jar"
-hash-format = "sha512"
-hash = "0f1f090675c799de646eb80fcfaa54079871b4d45fb91efaaf54fb4bf12538c12eafb5e7b8cc7646a1f2ec713922ce516888e09c471fd27f72299945bbc02e1c"
+hash-format = "sha256"
+hash = "8f971c83de392b07a50db46021ea10ce863d0830408fcfc65793b8a13cfba9dd"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/ZOhVauWn/worldedit-mod-7.3.0.jar"
-hash-format = "sha512"
-hash = "0b58ba7d59cb01b7e594da28bbcf6f97624549bb427a3e8c64108f21b49892c6732c068604cabba6ee5aa4ebaf317f94219a4108a37d74c0de2a114e4e0a5812"
+hash-format = "sha256"
+hash = "c9deee4bdd58338585433df92475c43b11a0693706a5665506a3ac087d4c47e4"
 
 [update]
 [update.modrinth]

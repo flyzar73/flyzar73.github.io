@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lQqKCDhg/versions/apXlcXa3/JCM-fabric-2.0.0%2B1.20.4.jar"
-hash-format = "sha512"
-hash = "dda1d14b2de70502b8cd10dab1b78a9441d16db86fd138b1c5ab8cac10dcf7541e9c30845d4a7a1bca7808b73e6fd2298137beb59f5be726d2c20cb0aa182cb7"
+hash-format = "sha256"
+hash = "055228d7500d6cea5e29b96c86dd690dbc38112193a13c932189837e6c7cdcd7"
 
 [update]
 [update.modrinth]

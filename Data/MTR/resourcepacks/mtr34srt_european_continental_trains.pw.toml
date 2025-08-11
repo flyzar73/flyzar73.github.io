@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/XmodF98W/versions/MNQSzTgL/MTR_srteuropean_continental_base_4.0_250525.zip"
-hash-format = "sha512"
-hash = "e3026a1baf2c638b93f7aa08faddcb76bbd3dc5d6ab946b49df6b1967388fbe2e2590f80cc6bbdbedbda89551ee8a2472064857f65d64ac382b565fcf3c9c093"
+hash-format = "sha256"
+hash = "a2c0fdc4adf4cdf6c6a4181178adb7df2a09fac996d8037b44bff828039de59a"
 
 [update]
 [update.modrinth]

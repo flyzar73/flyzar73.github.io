@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/KyLFi2Hg/versions/FEn08112/Airlink_Shuttle_345%201.0.3.zip"
-hash-format = "sha512"
-hash = "a7707ec220c59c158469998bcf0711301bf6fd158eec8e4f220f9d7c92298c979425548e5ef0b6d7ce6d9e5f69d6f1271f35adef9d2e160de0738be0b815ef7e"
+hash-format = "sha256"
+hash = "25138449f01922cf28750d76e0bbd0d7a919ed4fbf5345fbf449a48992214a03"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jrAXj11W/versions/ewX3LnSj/MTR-London-Underground-Addon-fabric-2.2.3%2B1.20.4.jar"
-hash-format = "sha512"
-hash = "70012e6655d97b9540b244989058919973e6a04892597184e2f81299104d055396583a9eb68ebc45e3b17067f2f010ab84ef27ee01454fc7f93e533345a6eb8d"
+hash-format = "sha256"
+hash = "15787c7ee1f1a935fe57109406eef5bcfb9dfb4507c2734bd12744d4b35f771a"
 
 [update]
 [update.modrinth]

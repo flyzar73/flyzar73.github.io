@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xw7lTsbM/versions/IkVwdZuJ/blossom-lib-2.5.6%2B1.20.4.jar"
-hash-format = "sha512"
-hash = "0713752020a44b8e98ba467b37dff30e15e43eb32cb4f4e7755f3bd8ec606c1688d669d8c39319e81673de8ec9d6b0af5a20b04afb5c9ebfce351be206f6fe62"
+hash-format = "sha256"
+hash = "742e833fd45f6747b4cd2da25a39b5f9deeb0ed9ec07f8b3c4cfe2f609cc963d"
 
 [update]
 [update.modrinth]

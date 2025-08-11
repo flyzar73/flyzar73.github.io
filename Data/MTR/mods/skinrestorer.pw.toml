@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/KjjKG5vC/skinrestorer-2.2.1%2B1.20.3-fabric.jar"
-hash-format = "sha512"
-hash = "831c8c6c88ea6b5721587b06be9287cb163fd7600ee52165c3d034bce4d54c7db5c003eb8211974473689423b57c3f5b2cabb71b3267cb1d8e9a9db080096dfb"
+hash-format = "sha256"
+hash = "1dd0d99a4a48f6ac9feeb9bfa47b9d5e82caf7e55602627fc14ca76522173ee9"
 
 [update]
 [update.modrinth]
