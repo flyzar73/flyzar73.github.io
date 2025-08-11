@@ -3,6 +3,6 @@ filename = "SERVER-1.0.0-prerelease-1+1.20.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0Pb6K4u/versions/vY0PpDK7/SERVER-1.0.0-prerelease-1%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/P0Pb6K4u/versions/YmFj9Iaj/SERVER-1.0.0%2B1.20.4.jar"
 hash-format = "sha256"
-hash = "d74a52f519eddb56a332cbb340b54821cf66494c606664dbdc555e3439352ac3"
+hash = "4fe7df485262e249324ad4167919e9cdac1bf3c3939ac06b26fa6ce7be6a7fe2"

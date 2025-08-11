@@ -1,0 +1,13 @@
+name = "TrafficCraft"
+filename = "trafficcraft-fabric-1.20.4-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y1PXWvWn/versions/rzrY1Buf/trafficcraft-fabric-1.20.4-1.1.3.jar"
+hash-format = "sha512"
+hash = "1040282280a87c6a4005692e20586480c4618d7b1bf244667a2057fb1c0223689b1db68801e108ce917c2d1c534f7184aba1c2a838b55d0bca369b0282cae7a3"
+
+[update]
+[update.modrinth]
+mod-id = "Y1PXWvWn"
+version = "rzrY1Buf"

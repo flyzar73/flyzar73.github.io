@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6d93d47d5b9b69b4f876dae53e6807ade7ad501580de5d3587c4a20d73743c43"
+hash = "0cba3cef1358d736702ef5f36e8de950176ed64de9fbb51bf4aad69512394f18"
 metafile = true
 
 [[files]]
@@ -271,12 +271,17 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "d67d5706b73e2b1cb60c1a8f6da97370f2538298a4d34adedb757c13a8b7e07e"
+hash = "fdcb15b23617e3ca6c49566af1d64e1ed6307a40b46156b0eaf1fceea234e41b"
 metafile = true
 
 [[files]]
 file = "mods/time-control.pw.toml"
 hash = "066c036008edf7d5700104add1fb40cc08b297c95e39149e28c4449c3eb3556e"
+metafile = true
+
+[[files]]
+file = "mods/trafficcraft.pw.toml"
+hash = "f19c74217c28ee212cda6d03da1bd1fe1a500c088f68d268b44721b51aac2537"
 metafile = true
 
 [[files]]
