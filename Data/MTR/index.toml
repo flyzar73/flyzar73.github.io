@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+hash = "bd7458c21a1e2133f6c669b3c6235183319c08a71eec3ea6ab5cf52a2dcac98f"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
+hash = "0b6d99c59a1b2aba6bd5dfcbe86c20749907a89ff548cca57e993053a6f3c885"
 metafile = true
 
 [[files]]
