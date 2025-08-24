@@ -5,6 +5,11 @@ file = "mods/MTRFranceAddon-pre1.0.0+1.20.4.jar"
 hash = "1369d40e16d518370bf512207e9590b6341f3d907315feff780addbb2b33884b"
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "0c4d1d4e4a521b5649642012779e24e66d0da4bfb2993cd396b23d0d41dcd613"
+metafile = true
+
+[[files]]
 file = "mods/banhammer.pw.toml"
 hash = "e1c0b07f3afcfadcfc2126608b2cfddf68169034a44aa4dd2b2efd205e31a440"
 metafile = true
