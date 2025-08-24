@@ -135,6 +135,11 @@ hash = "e972b4c1168a8870e4a320b91154f69e312041edecc09dd069086593ae3c4a53"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "00165f9817a04d4dec5c2715b62f5533aabad7286324bef8f72779c7bc6a6b38"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "270325bc7b9cf7ab5ca2ccd55710f7c036974772569129412a5ef2b45a1164b8"
 metafile = true
@@ -287,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "579f5ca66e2fed2ab95305d51226ed8cab43deeebeced1749606e36d9cdf1bfb"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "6f7a6fd264c4adfcdfc7119f1b608106e197f94c552dfa968427e8b90b8c2d10"
 metafile = true
 
 [[files]]
