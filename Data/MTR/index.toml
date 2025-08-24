@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/MTRFranceAddon-pre1.0.0+1.20.4.jar"
-hash = "1369d40e16d518370bf512207e9590b6341f3d907315feff780addbb2b33884b"
+hash = "0e7352f9807a696eb47a78ffe6b3bcc8aa7792ae858967df8826e5f832bde946"
 
 [[files]]
 file = "mods/axiom.pw.toml"
